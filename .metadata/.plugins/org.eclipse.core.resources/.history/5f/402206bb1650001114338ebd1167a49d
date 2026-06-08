@@ -1,0 +1,79 @@
+package oops;
+import java.util.Scanner;
+
+public class BankAppInterface {
+    
+    static int a = 99999999;
+    static int b = 999999999;
+
+    public static void main(String[] args) {
+        
+        BankApplication obj = new BankApplication();
+        Scanner sc = new Scanner(System.in);
+        
+       
+        System.out.println("Enter a name: ");
+        String name = sc.nextLine();
+        obj.setName(name);
+        
+       
+        System.out.println("Enter a AcctNo: ");
+        int AcctNo = sc.nextInt();
+        obj.setAcctNo(AcctNo);
+        
+        
+        if (obj.getAcctNo() <= a) {
+            System.out.println("Yes acctno validated!");
+        } else {
+            System.out.println("The Entered AcctNo Not Valid!");
+        }
+
+         
+        
+       
+        System.out.println("Enter a Branchname: ");
+        String BranchName = sc.nextLine();
+        obj.setBranchName(BranchName);
+        
+        
+        if(obj.getBranchName()=="chennai") {
+        	System.out.println("Branch is chennai");
+        }else {
+        	System.out.println("Branch is not chennai");
+        }
+        
+        
+        
+        System.out.println("Enter a phno: ");
+        String Phno = sc.nextLine();
+        obj.setPhNo(Phno);
+        
+        
+        if (obj.getPhNo().length() <= b) {
+            System.out.println("Yes acctno validated!");
+        } else {
+            System.out.println("The Entered AcctNo Not Valid!");
+        }
+        
+        System.out.println("Enter a IFSC: ");
+        String Ifsc = sc.nextLine();
+       
+        
+        
+        System.out.println("Enter a IsActive (true/false): ");
+        boolean Isactive = sc.nextBoolean();
+         
+        
+        
+        System.out.println("Enter a AcctType: ");
+        String AcctType = sc.nextLine();
+        
+       
+        System.out.println("Enter a Balance: ");
+        int Balance = sc.nextInt();
+        
+        
+       
+        
+    }
+}
