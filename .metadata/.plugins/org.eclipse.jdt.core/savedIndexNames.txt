@@ -8,8 +8,8 @@ INDEX VERSION 1.134+C:\Users\alame\eclipse-workspace\.metadata\.plugins\org.ecli
 162090135.index
 2371431527.index
 1805950533.index
-2501264523.index
 3936611326.index
+2501264523.index
 2977066361.index
 1865797976.index
 199154258.index
@@ -17,6 +17,5 @@ INDEX VERSION 1.134+C:\Users\alame\eclipse-workspace\.metadata\.plugins\org.ecli
 616043941.index
 1670916203.index
 3841850428.index
-4071406361.index
 2432416660.index
 2600512116.index
