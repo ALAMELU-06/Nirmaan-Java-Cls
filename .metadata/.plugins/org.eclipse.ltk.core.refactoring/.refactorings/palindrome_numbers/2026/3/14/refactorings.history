@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;palindrome_numbers&apos; to &apos;evenodd_numbers&apos;&#x0D;&#x0A;- Original project: &apos;palindrome_numbers&apos;&#x0D;&#x0A;- Original element: &apos;palindrome_numbers/src/palindrome_numbers&apos;&#x0D;&#x0A;- Renamed element: &apos;palindrome_numbers/src/evenodd_numbers&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;palindrome_numbers&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;palindrome_numbers" name="evenodd_numbers" qualified="false" references="true" stamp="1774939516007" textual="false" version="1.0"/>
+</session>

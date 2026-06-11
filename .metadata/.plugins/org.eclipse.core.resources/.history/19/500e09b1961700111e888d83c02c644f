@@ -1,0 +1,28 @@
+package numbers;
+import java.util.Scanner;
+
+public class prime_composite_numbers {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		 System.out.print("Enter a number: ");
+	        int n = sc.nextInt();
+	        if (n <= 1) {
+	            System.out.println("prime numbers");
+	        }
+	             {
+	                System.out.println(n + " is a composite number.");
+	            }
+  
+                
+	        
+	      
+	        	
+	        	
+	        }
+	        
+				
+	
+	        }	
+
+
+

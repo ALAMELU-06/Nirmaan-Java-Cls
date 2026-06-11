@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;numbers.consecutive_prime_numbers&apos; to &apos;consecutive_swap_numbers&apos;&#x0D;&#x0A;- Original project: &apos;numbers&apos;&#x0D;&#x0A;- Original element: &apos;numbers.consecutive_prime_numbers&apos;&#x0D;&#x0A;- Renamed element: &apos;numbers.consecutive_swap_numbers&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;consecutive_prime_numbers&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;numbers{consecutive_prime_numbers.java[consecutive_prime_numbers" matchStrategy="1" name="consecutive_swap_numbers" qualified="false" references="true" similarDeclarations="false" stamp="1772544741436" textual="false" version="1.0"/>
+</session>
